@@ -1,5 +1,4 @@
 import './App.css';
-// import { useState } from "React";
 
 // function App(props) {
 //   return (
@@ -19,14 +18,5 @@ function App({name}) {
     </div>
   );
 }
-
-// function App(){
-//   const emotion = useState("happy");
-//   return (
-//     <div className="App">
-//         <h1>The emotion is {emotion}</h1>
-//     </div>
-//   )
-// }
 
 export default App;
